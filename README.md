@@ -80,4 +80,29 @@ cd merge-sort-visualizer
 
 ## Hugging Face Link
 ## Testing (what you tried + edge cases)
+
+**test case 1: standard input**
+
+ input:
+ 
+Alice, 3.8, 50, 90
+
+Bob, 3.2, 100, 75
+
+Charlie, 3.9, 10, 95
+
+Result: all aplicants sorted correctly. Final board turned green
+
+screenshot:
+
+**test case 2: invalid input**
+
+ input:
+
+ User, GPA, 10, Score
+
+ result: Error: Please use format 'Name, GPA, Vol, Essay' per line. forces you to input using the proper format
+
+ screenshot:
+
 ## Author & Acknowledgment (sources + AI use, if any)
