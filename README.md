@@ -4,6 +4,9 @@ for this project I chose the scholarship shortlist problem
 ## Chosen Algorithm (name + why it fits)
 For the Scholarship Shortlist problem, I deliberately chose Merge Sort. To start merge sort has consistent performance unlike quick sort which can degrade to O(n^2) time complexity in worst case scenarios. Merge sort guarantees a time complexity of O(nlogn) across all cases. On top of that merge sort is a stable sorting algorithm meaning that original relative order is preserved if two students tie maintaining the initial order.
 ## Demo (video/gif/screenshot of at least one run)
+
+https://github.com/user-attachments/assets/d8730447-4b17-4a0f-b4a0-0eac13349444
+
 ## Problem Breakdown & Computational Thinking (include a flowchart + the 4 pillars as brief bullets)
 
 **Decomposition**
