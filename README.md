@@ -115,3 +115,9 @@ screenshot:
  <img width="1276" height="597" alt="TESTCASE2" src="https://github.com/user-attachments/assets/c30e436b-467a-4627-9e50-96e49305fcd2" />
 
 ## Author & Acknowledgment (sources + AI use, if any)
+
+AI Disclosure: Level 4
+
+the original algorithm was all written by me but I used AI to help draft and understand implimenting the GUI and how to create the visual animation of the sorting process
+
+AI was also used to review code for checking for bugs in the code
