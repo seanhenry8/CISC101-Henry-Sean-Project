@@ -128,6 +128,8 @@ screenshot:
 
 ## Author & Acknowledgment (sources + AI use, if any)
 
+Author: Sean Henry
+
 AI Disclosure: Level 4
 
 the original algorithm was all written by me but I used AI to help draft and understand implimenting the GUI and how to create the visual animation of the sorting process
