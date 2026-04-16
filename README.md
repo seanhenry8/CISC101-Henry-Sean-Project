@@ -84,6 +84,9 @@ cd merge-sort-visualizer
    Open this link in your web browser to start the interactive sorting animation.
 
 ## Hugging Face Link
+
+https://huggingface.co/spaces/SeanHenry8/scholarship-shortlist-merge-sort
+
 ## Testing (what you tried + edge cases)
 
 **test case 1: standard input**
